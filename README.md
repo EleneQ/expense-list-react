@@ -1,3 +1,3 @@
 Made with react
 
-* Live URL: 
+* Live URL: https://eleneq.github.io/expense-list-react/
