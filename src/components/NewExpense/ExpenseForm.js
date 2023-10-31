@@ -82,7 +82,7 @@ function ExpenseForm(props) {
       title: enteredTitle,
       amount: enteredAmount,
       date: new Date(enteredDate),
-    };
+    };git
 
     //passing the expensedata obj to the parent newexpense component
     props.onSaveExpenseData(enteredExpenseData);
